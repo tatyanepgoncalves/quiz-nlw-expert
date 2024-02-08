@@ -16,9 +16,9 @@
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-    - HTML
-    - CSS
-    - JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## 💻 Projeto
 Esse projeto realizei juntamente com a Rocketseat através do NLW Expert, testando os meus conhecimentos técnicos e aprendedo novas caracteristicas das linguagens usadas.
